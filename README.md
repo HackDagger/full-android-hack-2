@@ -21,6 +21,7 @@ This rat is fully controlled via email and does not require a server. [full-andr
 - 🎙 capture microphone
 - 📋 receive last clipboard text
 - ✅️ auto start after device boot
+- 🤖 Undetectable by antivirus
 
 
 ## How it works ?
