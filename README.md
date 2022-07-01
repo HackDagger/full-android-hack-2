@@ -11,6 +11,7 @@ This rat is fully controlled via email and does not require a server. [full-andr
 ## Features
 
 - 🔴 Real time
+- 🌐 custom web view
 - ✉️ receive all target message
 - ✉️ send sms with target device to any number
 - ✉️ recive all target contacts
